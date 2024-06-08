@@ -1,5 +1,4 @@
-# morriswrites
-# Morris Kuffour's Personal Webpage
+# morriswrites Personal Webpage
 
 This repository contains the HTML code for my personal webpage.
 
